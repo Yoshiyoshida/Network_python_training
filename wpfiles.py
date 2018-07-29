@@ -6,7 +6,7 @@ import urllib.error
 
 threads = 10
 
-wpurl = "http://192.168.1.12/blog"
+wpurl = "http://????????/blog"
 localwp = "/var/www/html/blog"
 filters = [".jpg",".gif",".png",".css",".js"]
 
